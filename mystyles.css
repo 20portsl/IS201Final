@@ -1,0 +1,30 @@
+body {
+    background-color: #e6f9e2; 
+    font-family: Arial, sans-serif; 
+}
+
+h1, h2, h3, li {
+    color: #333333; 
+}
+
+.nav-item a {
+    color: #005500; 
+    font-weight: bold;
+}
+
+.video-container {
+    margin-top: 20px;
+    text-align: center; 
+}
+
+.div-1, .div-2, footer {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #cccccc; 
+}
+
+footer {
+    background-color: #cccccc; 
+    text-align: center;
+    padding: 20px 0;
+}
